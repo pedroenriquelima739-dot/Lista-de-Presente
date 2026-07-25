@@ -1,0 +1,22 @@
+{
+  "short_name": "ListaPresentes",
+  "name": "Lista de Presentes | Thayná & Joelton",
+  "description": "Lista de presentes de casamento e chá de casa nova com acesso 100% offline",
+  "start_url": "/",
+  "background_color": "#FAF7F2",
+  "theme_color": "#2C3B28",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Lista de Presentes - Thayná & Joelton",
+  "description": "Lista de presentes interativa e elegante para o casamento de Thayná & Joelton.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
